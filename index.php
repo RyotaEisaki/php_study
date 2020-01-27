@@ -16,9 +16,21 @@
 // $z--;
 // var_dump($z);
 
-$x=5;
-$x*=2;
-var_dump($x);
+// $x=5;
+// $x*=2;
+// var_dump($x);
+
+//文字列
+// $name="test";
+// $s1="hello $name!\nhellow again";
+// $s2='hello $name!\nhellow again';
+// var_dump($s1);
+// var_dump($s2);
+
+//連結
+$s="hello " . "world";
+var_dump($s);
+
 
 
 /* ?>

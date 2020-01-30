@@ -31,8 +31,6 @@
 $s="hello " . "world";
 var_dump($s);
 
-
-
 /* ?>
 // <!DOCTYPE html>
 // <html lang="ja">
